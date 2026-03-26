@@ -152,7 +152,7 @@ Available commands:
 ---
 
 ###  Dataset Upload
-
+![Upload](assets/upload.png)
 ```
 🚀 Uploading dataset...
 📂 Detected SPLIT dataset
