@@ -149,46 +149,26 @@ Available commands:
 * upload
 * hello
 
+![Upload](assets/test.png)
+
+![Upload](assets/version.png)
+
 ---
 
 ###  Dataset Upload
-
-```
-🚀 Uploading dataset...
-📂 Detected SPLIT dataset
-Processing train...
-10 uploaded...
-20 uploaded...
-...
-```
+![Upload](assets/upload.png)
 
 ---
 
-###  Model Training
+###  Model Training(local)
 
-```
-🚀 Starting YOLO training...
-Epoch 1/50 ...
-Epoch 2/50 ...
-...
- Training complete!
-```
+![Upload](assets/trainlocal.png)
 
 ---
 
 ###  Prediction Output
 
-```
-Detected class: 0, Confidence: 0.67
-Detected class: 0, Confidence: 0.60
-...
-```
-
-✔ Output saved as:
-
-```
-prediction.jpg
-```
+![Upload](assets/testimage.png)
 
 ---
 
