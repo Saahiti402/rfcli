@@ -176,6 +176,8 @@ Available commands:
 
 ![Upload](assets/testimage.png)
 
+![Upload](assets/prediction.png)
+
 ---
 
 ##  End-to-End Pipeline
