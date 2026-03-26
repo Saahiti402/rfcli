@@ -151,12 +151,18 @@ Available commands:
 
 ![Upload](assets/test.png)
 
-![Upload](assets/version.png)
-
 ---
 
 ###  Dataset Upload
 ![Upload](assets/upload.png)
+
+![Upload](assets/dataset.png)
+
+---
+###  Dataset versioning
+![Upload](assets/version.png)
+
+![Upload](assets/versioncli.png)
 
 ---
 
