@@ -1,0 +1,8 @@
+click
+rich
+roboflow
+ultralytics
+fastapi
+uvicorn
+python-multipart
+opencv-python

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+myenv/
+venv/
+.env
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# ML outputs
+runs/
+prediction.jpg
+
+# OS
+.DS_Store
+Thumbs.db
