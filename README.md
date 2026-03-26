@@ -176,7 +176,7 @@ Available commands:
 
 ![Upload](assets/testimage.png)
 
-![Upload](assets/prediction.png)
+![Upload](assets/prediction.jpg)
 
 ---
 
